@@ -2,7 +2,7 @@
  * Application
  */
 :root {
-  color: #2d364c;
+  color: #fff;
   font-size: 16px;
   line-height: 1.5; }
 
@@ -17,7 +17,6 @@ body {
 
 figure {
   align-items: center;
-  background-color: #2d364c;
   display: flex;
   flex: 1;
   justify-content: center;
@@ -36,6 +35,7 @@ main {
 
 article {
   align-items: center;
+  background-color: #0d1723;
   display: flex;
   flex: 1;
   font-size: 1.25rem;
@@ -54,7 +54,7 @@ p {
   margin-top: 0; }
 
 a {
-  color: #14498d; }
+  color: #c12253; }
 
 img {
   display: inline-flex; }
